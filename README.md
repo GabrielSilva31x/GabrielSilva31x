@@ -17,13 +17,13 @@ I code with
 
 <div align="center">
 
-<table border="1" cellpadding="10">
+<table border="2" cellpadding="10">
 <tr>
-<td><img src="https://skillicons.dev/icons?i=c"></td>
-<td><img src="https://skillicons.dev/icons?i=python"></td>
-<td><img src="https://skillicons.dev/icons?i=js"></td>
-<td><img src="https://skillicons.dev/icons?i=html"></td>
-<td><img src="https://skillicons.dev/icons?i=linux"></td>
+<td><img src="https://skillicons.dev/icons?i=c" width="500"></td>
+<td><img src="https://skillicons.dev/icons?i=python" width="500"></td>
+<td><img src="https://skillicons.dev/icons?i=js" width="500"></td>
+<td><img src="https://skillicons.dev/icons?i=html" width="500"></td>
+<td><img src="https://skillicons.dev/icons?i=linux" width="500"></td>
 </tr>
 </table>
 
