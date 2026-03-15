@@ -4,7 +4,7 @@
 Studying technology, Networks, and Cybersecurity.
 
 <ul>
-<li> 🔐 Interested in security and systems operation </li>
+<li><sub> 🔐 Interested in security and systems operation </sub></li>
 <li> 💻 Creating scripts and simple tools </li>
 <li> ⚙️ Exploring Linux, networks, and programming </li>
 </ul>
