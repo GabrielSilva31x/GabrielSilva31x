@@ -2,9 +2,11 @@
 
 Studying technology, Networks, and Cybersecurity.
 
-<p>🔐 Interested in security and systems operation</p>
-<p>💻 Creating scripts and simple tools</p>
-<p>⚙️ Exploring Linux, networks, and programming</p>
+<ul>
+<li><sub>🔐 Interessado em segurança e operação de sistemas</sub></li>
+<li><sub>💻 Criação de scripts e ferramentas simples</sub></li>
+<li><sub>⚙️ Explorando Linux, redes e programação</sub></li>
+</ul>
 
 Always learning, always building...
 
@@ -18,4 +20,4 @@ Always learning, always building...
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
 </p>
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
