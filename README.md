@@ -1,13 +1,12 @@
 # Hello 👋
 
 
-> Studying technology, Networks, and Cybersecurity.
+Studying technology, Networks, and Cybersecurity.
 
-<ul>
-<li>🔐 Interested in security and systems operation</li>
-<li>💻 Creating scripts and simple tools</li>
-<li>⚙️ Exploring Linux, networks, and programming</li>
-</ul>
+> 🔐 Interested in security and systems operation
+> 💻 Creating scripts and simple tools
+> ⚙️ Exploring Linux, networks, and programming
+
 
 Always learning, always building...
 
