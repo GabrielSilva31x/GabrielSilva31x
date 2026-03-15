@@ -19,5 +19,5 @@ I code with
 
 </div>
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2V0N2ZkbzJyd2p1c2M3d2N2NnB0M3I3aWZsOTV3bTJjNHd6bG0yYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500" height="350"/>
 </div>
