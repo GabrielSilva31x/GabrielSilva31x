@@ -19,11 +19,11 @@ I code with
 
 <table border="2" cellpadding="20">
 <tr>
-<td><img src="https://skillicons.dev/icons?i=c" width="500"></td>
-<td><img src="https://skillicons.dev/icons?i=python" width="500"></td>
-<td><img src="https://skillicons.dev/icons?i=js" width="500"></td>
-<td><img src="https://skillicons.dev/icons?i=html" width="500"></td>
-<td><img src="https://skillicons.dev/icons?i=linux" width="500"></td>
+<td><img src="https://skillicons.dev/icons?i=c" width="300"></td>
+<td><img src="https://skillicons.dev/icons?i=python" width="300"></td>
+<td><img src="https://skillicons.dev/icons?i=js" width="300"></td>
+<td><img src="https://skillicons.dev/icons?i=html" width="300"></td>
+<td><img src="https://skillicons.dev/icons?i=linux" width="300"></td>
 </tr>
 </table>
 
