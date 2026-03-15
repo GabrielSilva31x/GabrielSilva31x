@@ -26,5 +26,5 @@ I code with
 
 </div>
 <div align="center">
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600" height="350"/>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500" height="400"/>
 </div>
