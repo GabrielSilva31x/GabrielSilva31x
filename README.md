@@ -16,27 +16,27 @@ Always learning, always building...
 
 <div align="center">
 
-<table width="100%">
+<table>
 <tr>
 
-<td align="center" width="20%" style="border:1px solid #30363d; padding:12px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=c" />
 </td>
 
-<td align="center" width="20%" style="border:1px solid #30363d; padding:12px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" />
 </td>
 
-<td align="center" width="20%" style="border:1px solid #30363d; padding:12px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" />
 </td>
 
-<td align="center" width="20%" style="border:1px solid #30363d; padding:12px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" />
 </td>
 
-<td align="center" width="20%" style="border:1px solid #30363d; padding:12px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux" />
 </td>
 
 </tr>
