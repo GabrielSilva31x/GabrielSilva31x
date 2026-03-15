@@ -12,7 +12,7 @@ Studying technology, Networks, and Cybersecurity.
 Always learning, always building...
 
 ### I code with
-
+---
 <table width="100%">
 <tr align="center">
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45"></td>
@@ -22,7 +22,7 @@ Always learning, always building...
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"></td>
 </tr>
 </table>
-
+---
 <div align = "center">
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
 </div>
