@@ -1,14 +1,15 @@
 # Hello 👋
 
-Studying technology, networks, and cybersecurity.
+Studying technology, Networks, and Cybersecurity.
 
-🔐 Interested in security and systems operation
-💻 Creating scripts and simple tools
-⚙️ Exploring Linux, networks, and programming
+<p>🔐 Interested in security and systems operation</p>
+<p>💻 Creating scripts and simple tools</p>
+<p>⚙️ Exploring Linux, networks, and programming</p>
 
 Always learning, always building...
 
 ### I code with
+
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
@@ -17,4 +18,4 @@ Always learning, always building...
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
 </p>
 
-![coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
