@@ -15,7 +15,7 @@ Always learning, always building...
 <hr>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=c,python,js,html,linux" width="700"/>
+<img src="https://skillicons.dev/icons?i=c,python,js,html,linux" width="500"/>
 </div>
 
 <br>
