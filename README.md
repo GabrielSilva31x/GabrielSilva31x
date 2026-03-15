@@ -13,11 +13,11 @@ I code with
 <div align="center">
 <table border="8" cellpadding="15">
 <tr>
-<td><img src="https://skillicons.dev/icons?i=c" width="110"></td>
-<td><img src="https://skillicons.dev/icons?i=python" width="110"></td>
-<td><img src="https://skillicons.dev/icons?i=js" width="110"></td>
-<td><img src="https://skillicons.dev/icons?i=html" width="110"></td>
-<td><img src="https://skillicons.dev/icons?i=linux" width="110"></td>
+<td><img src="https://skillicons.dev/icons?i=c" width="90"></td>
+<td><img src="https://skillicons.dev/icons?i=python" width="90"></td>
+<td><img src="https://skillicons.dev/icons?i=js" width="90"></td>
+<td><img src="https://skillicons.dev/icons?i=html" width="90"></td>
+<td><img src="https://skillicons.dev/icons?i=linux" width="90"></td>
 </tr>
 </table>
 
