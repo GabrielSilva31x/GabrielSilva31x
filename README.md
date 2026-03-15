@@ -12,7 +12,8 @@ Studying technology, Networks, and Cybersecurity.
 Always learning, always building...
 
 ### I code with
---
+
+<hr>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
