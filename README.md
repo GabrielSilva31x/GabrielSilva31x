@@ -3,7 +3,7 @@
 
 Studying technology, Networks, and Cybersecurity.
 
-> 🔐 Interested in security and systems operation
+> 🔐 Interested in security and systems operation <br>
 > 💻 Creating scripts and simple tools
 > ⚙️ Exploring Linux, networks, and programming
 
