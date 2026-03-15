@@ -17,11 +17,15 @@ I code with
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c" style="border:2px solid #30363d;border-radius:12px;padding:6px;margin:4px;">
-<img src="https://skillicons.dev/icons?i=python" style="border:2px solid #30363d;border-radius:12px;padding:6px;margin:4px;">
-<img src="https://skillicons.dev/icons?i=js" style="border:2px solid #30363d;border-radius:12px;padding:6px;margin:4px;">
-<img src="https://skillicons.dev/icons?i=html" style="border:2px solid #30363d;border-radius:12px;padding:6px;margin:4px;">
-<img src="https://skillicons.dev/icons?i=linux" style="border:2px solid #30363d;border-radius:12px;padding:6px;margin:4px;">
+<table border="1" cellpadding="10">
+<tr>
+<td><img src="https://skillicons.dev/icons?i=c"></td>
+<td><img src="https://skillicons.dev/icons?i=python"></td>
+<td><img src="https://skillicons.dev/icons?i=js"></td>
+<td><img src="https://skillicons.dev/icons?i=html"></td>
+<td><img src="https://skillicons.dev/icons?i=linux"></td>
+</tr>
+</table>
 
 </div>
 <br>
