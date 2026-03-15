@@ -1,7 +1,7 @@
 # Hello 👋
 
 
-Studying technology, Networks, and Cybersecurity.
+> Studying technology, Networks, and Cybersecurity.
 
 <ul>
 <li>🔐 Interested in security and systems operation</li>
