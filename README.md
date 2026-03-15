@@ -11,8 +11,7 @@ Studying technology, Networks, and Cybersecurity.
 
 Always learning, always building...
 
-### I code with
-<hr>
+### I code with <hr>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=c,python,js,html,linux" width="500"/>
