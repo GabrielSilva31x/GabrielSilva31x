@@ -10,9 +10,9 @@ Studying technology, Networks, and Cybersecurity.
 </ul>
 
 <ul>
-<li><span style="color:#8b949e;">🔐 Interested in security and systems operation</span></li>
-<li><span style="color:#8b949e;">💻 Creating scripts and simple tools</span></li>
-<li><span style="color:#8b949e;">⚙️ Exploring Linux, networks, and programming</span></li>
+<li><span style="color:#696969;">🔐 Interested in security and systems operation</span></li>
+<li><span style="color:#696969;">💻 Creating scripts and simple tools</span></li>
+<li><span style="color:#696969;">⚙️ Exploring Linux, networks, and programming</span></li>
 </ul>
 
 Always learning, always building...
