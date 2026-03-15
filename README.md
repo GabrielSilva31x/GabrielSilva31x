@@ -15,33 +15,7 @@ Always learning, always building...
 <hr>
 
 <div align="center">
-
-<table>
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=c" />
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python" />
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=js" />
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=html" />
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=linux" />
-</td>
-
-</tr>
-</table>
-
+<img src="https://skillicons.dev/icons?i=c,python,js,html,linux,bash,git&perline=7" />
 </div>
 
 </div>
