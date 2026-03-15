@@ -17,7 +17,7 @@ I code with
 
 <div align="center">
 
-<table border="2" cellpadding="10">
+<table border="2" cellpadding="20">
 <tr>
 <td><img src="https://skillicons.dev/icons?i=c" width="500"></td>
 <td><img src="https://skillicons.dev/icons?i=python" width="500"></td>
