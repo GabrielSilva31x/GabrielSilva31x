@@ -10,13 +10,7 @@ Studying technology, Networks, and Cybersecurity.
 
 I code with 
 ---
-
 <div align="center">
-<img src="https://skillicons.dev/icons?i=c,python,js,html,linux" width="500"/>
-</div>
-
-<div align="center">
-
 <table border="8" cellpadding="15">
 <tr>
 <td><img src="https://skillicons.dev/icons?i=c" width="110"></td>
