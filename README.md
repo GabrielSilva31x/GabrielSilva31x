@@ -19,7 +19,7 @@ I code with
 <td><img src="https://skillicons.dev/icons?i=js" width="70"></td>
 <td><img src="https://skillicons.dev/icons?i=html" width="70"></td>
 <td><img src="https://skillicons.dev/icons?i=linux" width="70"></td>
-<td><img src="https://skillicons.dev/icons?i=Networking" width="70"></td>
+<td><img src="https://skillicons.dev/icons?i=🌐" width="70"></td>
 </tr>
 </table>
 
