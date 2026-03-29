@@ -20,7 +20,6 @@ I code with
 <td><img src="https://skillicons.dev/icons?i=html" width="70"></td>
 <td><img src="https://skillicons.dev/icons?i=linux" width="70"></td>
 <td><img src="https://skillicons.dev/icons?i=bash" width="70"></td>
-<td><img src="https://www.flaticon.com/br/icone-gratis/rede_3178285?term=internet" width="70"></td>
 </tr>
 </table>
 
